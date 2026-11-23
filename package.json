@@ -1,0 +1,12 @@
+{
+  "name": "one-emoji-one-smile",
+  "version": "1.0.0",
+  "description": "One Emoji, One Smile — a single warm emoji for make.fun",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
